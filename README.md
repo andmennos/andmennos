@@ -4,7 +4,7 @@
 - 🐱‍🏍 Android adventurer - Java
 
 - :email: anddevt@gmail.com
-https://github-readme-stats-git-master-andmennos.vercel.app/
+- 
 <div>
   <a href="https://github.com/andmennos">
   <img height="180em" src="https://github-readme-stats-git-master-andmennos.vercel.app/api?username=andmennos&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
