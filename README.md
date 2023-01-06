@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/andmennos">
-  <img height="180em" src="https://github-readme-stats-andmennos.vercel.app/api?username=andmennos&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-andmennos.vercel.app/api/top-langs/?username=andmennos&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats-gules-five-45.vercel.app/api?username=andmennos&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-gules-five-45.vercel.app/api/top-langs/?username=andmennos&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
 
