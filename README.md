@@ -7,8 +7,8 @@
 
 <div>https://
   <a href="https://github.com/andmennos">
-  <img height="180em" src="https://github-readme-stats-h2ho.vercel.app/api?username=andmennos&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-h2ho.vercel.app/api/top-langs/?username=andmennos&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats-n8tu2rk7r-andmennos.vercel.app/api?username=andmennos&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-n8tu2rk7r-andmennos.vercel.app/api/top-langs/?username=andmennos&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
 
