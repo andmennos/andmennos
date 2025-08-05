@@ -1,14 +1,11 @@
 ### Hi there   :shipit:  I'm Anderson Ferreira
 
 - 🐱‍🏍 Front-end developer - Angular
-- 🐱‍🏍 Android adventurer - Java
 
 - :email: anddevt@gmail.com
 
 <div>
   <a href="https://github.com/andmennos">
-  <img height="180em" src="https://github-readme-stats-new-andmennos.vercel.app/api?username=andmennos&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-new-andmennos.vercel.app/api/top-langs/?username=andmennos&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
 
